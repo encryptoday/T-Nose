@@ -63,23 +63,18 @@ An example dataset is included in the `dataset/` folder as `spamhamdata.csv`.
     - Allows users to input a message and predicts if it's spam or ham with a confidence score.
 
 ## Results
-After training and testing, the model provides:
-- **Accuracy**: Typically around XX% (dependent on the dataset).
-- **Confusion Matrix**: Visualizes the number of true/false positives and negatives.
-- **Classification Report**: Displays precision, recall, and F1-score.
+After training and testing, the model provides accuricy ypically around 94.86% (depends on the training dataset).
 
 ## Visualizations
 The project includes the following visualizations:
 1. **Confusion Matrix**:
-   ![Confusion Matrix](confusion_matrix_example.png)
+   ![Confusion Matrix](https://mmm.sh/github/tnose/Confusion_Matrix.png)
 
 2. **Spam Confidence Levels**:
-   ![Spam Confidence](spam_confidence_example.png)
+   ![Spam Confidence](https://mmm.sh/github/tnose/Confidence_Levels.png)
 
 3. **Predicted vs. Actual Results**:
-   ![Predicted vs Actual](predicted_vs_actual_example.png)
-
-*(Add actual screenshots from your plots for better representation.)*
+   ![Predicted vs Actual](https://mmm.sh/github/tnose/Comparisn_Actual_Predicted.png)
 
 ## Usage
 - Modify `spamhamdata.csv` with your own labeled dataset, keeping the same format.
@@ -88,13 +83,3 @@ The project includes the following visualizations:
 
 ## Contributions
 Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests. For major changes, please open an issue to discuss the proposed updates.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-For queries or suggestions, please contact [your-email@example.com].
-
----
-
-Happy coding! 😊
