@@ -20,8 +20,8 @@ An example dataset is included in the `dataset/` folder as `spamhamdata.csv`.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/spam-detection-logistic-regression.git
-    cd spam-detection-logistic-regression
+    git clone https://github.com/encryptoday/T-Nose.git
+    cd T-Nose
     ```
 
 2. Install required Python packages:
