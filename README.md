@@ -68,12 +68,15 @@ After training and testing, the model provides accuricy ypically around 94.86% (
 ## Visualizations
 The project includes the following visualizations:
 1. **Confusion Matrix**:
+   
    ![Confusion Matrix](https://mmm.sh/github/tnose/Confusion_Matrix.png)
 
-2. **Spam Confidence Levels**:
+3. **Spam Confidence Levels**:
+   
    ![Spam Confidence](https://mmm.sh/github/tnose/Confidence_Levels.png)
 
-3. **Predicted vs. Actual Results**:
+5. **Predicted vs. Actual Results**:
+   
    ![Predicted vs Actual](https://mmm.sh/github/tnose/Comparisn_Actual_Predicted.png)
 
 ## Usage
